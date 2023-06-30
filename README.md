@@ -15,4 +15,3 @@ The raw data, is in the folder data, and it was extracted from the spanish websi
 In LaptopsDataCleaning.ipynb it's all the process of data cleaning, and the final result is the file laptops.csv
 
 ## Thank you!
-# laptops-data-cleaning
