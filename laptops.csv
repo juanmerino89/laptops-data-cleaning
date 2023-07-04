@@ -253,7 +253,7 @@ MSI Stealth 15 A13VF-019XES Intel Core i7-13620H/16GB/1TB SSD/RTX 4060/15.6'',Ne
 "Apple Macbook Air Apple M2/8GB/256GB SSD/GPU Octa Core/13.6"" Midnight",New,Apple,MacBook Air,Apple M2,8,256,SSD,,13.6,No,1519.0
 "HP ChromeBook 14a-na1006ns Intel Celeron N4500/4GB/64GB eMMC/14""",New,HP,Chromebook,Intel Celeron,4,64,eMMC,,14.0,No,379.0
 "MSI Creator Z16 HX Studio B13VFTO-034ES Intel Core i7-13700HX/32GB/1TB SSD/RTX 4060/16"" Táctil",New,MSI,Creator,Intel Core i7,32,1000,SSD,RTX 4060,16.0,Yes,2729.01
-"Medion Erazer Crawler E30 Intel Core i5-12450H/16GB/512GB SSD/RTX 3050 Ti/15.6""",New,Razer,Erazer,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,859.0
+"Medion Erazer Crawler E30 Intel Core i5-12450H/16GB/512GB SSD/RTX 3050 Ti/15.6""",New,Medion,Erazer,Intel Core i5,16,512,SSD,RTX 3050,15.6,No,859.0
 "LG Gram 17Z90Q Intel Evo Core i7-1260P/32GB/1TB SSD/17""",New,LG,Gram,Intel Evo Core i7,32,1000,SSD,,17.0,No,1809.01
 "MSI Pulse 17 B13VFK-072XES Intel Core i7-13700H/16GB/1TB SSD/RTX 4060/17.3""",New,MSI,Pulse,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1899.0
 "HP 255 G8 AMD Ryzen 3 5300U/8GB/512GB SSD/15.6""",New,HP,255,AMD Ryzen 3,8,512,SSD,,15.6,No,388.0
@@ -325,7 +325,7 @@ ASUS TUF Gaming F17 FX707ZV4-HX004 Intel Core i7-12700H/32GB/1TB SSD/RTX 4060/17
 "Apple Macbook Air Apple M2/16GB/256GB SSD/GPU Octa Core/13.6"" Midnight",New,Apple,MacBook Air,Apple M2,16,256,SSD,,13.6,No,1639.01
 "HP 250 G8 Intel Core i5-1135G7/16GB/512GB SSD/15.6"" Plata Ceniza",New,HP,250,Intel Core i5,16,512,SSD,,15.6,No,669.01
 Lenovo IdeaPad 1 15AMN7-923 AMD Ryzen 3-7320U/8GB/256 SSD/15.6'' (PT),New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,,15.6,No,511.49
-"Medion Erazer Deputy P50 Intel Core i7-13700HX/16GB/1TB SSD/RTX 4060/15.6""",New,Razer,Deputy,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1529.0
+"Medion Erazer Deputy P50 Intel Core i7-13700HX/16GB/1TB SSD/RTX 4060/15.6""",New,Medion,Deputy,Intel Core i7,16,1000,SSD,RTX 4060,15.6,No,1529.0
 "MSI Summit E16 Flip A13VET-083ES Intel Core i7-1360P/32GB/1TB SSD/RTX 4050/16"" Táctil",New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 4050,16.0,Yes,2379.01
 "Dell Vostro 3510 Intel Core i5-1135G7/16 GB/512GB SSD/15.6""",New,Dell,Vostro,Intel Core i5,16,512,SSD,,15.6,No,869.0
 "ASUS M515UA-EJ541 AMD Ryzen 7 5700U/16GB/512GB SSD/15.6""",New,Asus,M515UA,AMD Ryzen 7,16,512,SSD,,15.6,No,699.0
@@ -397,7 +397,7 @@ ASUS TUF Gaming F17 FX707ZU4-HX005 Intel Core i7-12700H/16GB/1TB SSD/RTX 4050/17
 "Acer Extensa 15 EX215-54-31DH Intel Core i3-1115G4/8GB/256GB SSD/15.6""",New,Acer,Extensa,Intel Core i3,8,256,SSD,,15.6,No,394.0
 "MSI Summit E16 Flip A13VFT-082ES Intel Core i7-1360P/32GB/1TB SSD/RTX 4060/16"" Táctil",New,MSI,Summit,Intel Core i7,32,1000,SSD,RTX 4060,16.0,Yes,2499.0
 "ASUS VivoBook F1605PA-MB091W Intel Core i5-11300H/8GB/512GB SSD/16""",New,Asus,VivoBook,Intel Core i5,8,512,SSD,,16.0,No,549.99
-"Medion Erazer Deputy P10 MD62132 Intel Core i5-10300H/8GB/512GB SSD/GTX 1660Ti/15.6""",New,Razer,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,999.0
+"Medion Erazer Deputy P10 MD62132 Intel Core i5-10300H/8GB/512GB SSD/GTX 1660Ti/15.6""",New,Medion,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,999.0
 "HP OMEN 16-B1006NS Intel Core i7-12700H/16GB/1TB SSD/RTX 3060/16.1""",New,HP,Omen,Intel Core i7,16,1000,SSD,RTX 3060,16.1,No,1699.01
 "ASUS Chromebook CX1400CNA-EK0225 Intel Celeron N3350/8GB/32GB eMMC/14""",New,Asus,Chromebook,Intel Celeron,8,32,eMMC,,14.0,No,349.0
 "Alurin Flex Advance Intel Core i5-1155G7/8GB/500GB SSD/15.6""",New,Alurin,Flex Advance,Intel Core i5,8,500,SSD,,15.6,No,500.0
@@ -463,8 +463,8 @@ Lenovo Legion 5 15ACH6H-289 AMD Ryzen 5 5600H/8GB/512GB SSD/RTX3060/15.6'' (PT),
 "MSI Creator M16 B13UDX-686ES Intel Core i7-13700H/16GB/1TB SSD/RTX 3050/16""",New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1699.01
 "MSI Creator M16 B13VE-683ES Intel Core i7-13700H/16GB/1TB SSD/RTX 4050/16""",New,MSI,Creator,Intel Core i7,16,1000,SSD,RTX 4050,16.0,No,1899.01
 "MSI Raider GE68 HX 13VG-043ES Intel Core i7-13700HX/32GB/1TB SSD/RTX 4070/16""",New,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 4070,16.0,No,2578.38
-"Medion Erazer Crawler E40 Intel Core i5-13420H/16GB/1TB SSD/RTX 4050/15.6""",New,Razer,Erazer,Intel Core i5,16,1000,SSD,RTX 4050,15.6,No,1119.01
-"Medion Erazer Defender P40 Intel Core i7-13700HX/16GB/1TB SSD/RTX 4060/17.3""",New,Razer,Erazer,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1629.0
+"Medion Erazer Crawler E40 Intel Core i5-13420H/16GB/1TB SSD/RTX 4050/15.6""",New,Medion,Erazer,Intel Core i5,16,1000,SSD,RTX 4050,15.6,No,1119.01
+"Medion Erazer Defender P40 Intel Core i7-13700HX/16GB/1TB SSD/RTX 4060/17.3""",New,Medion,Erazer,Intel Core i7,16,1000,SSD,RTX 4060,17.3,No,1629.0
 "HP OMEN 16-k0023ns Intel Core i9-12900H/32GB/1TB SSD/RTX 3070 Ti/16.1""",New,HP,Omen,Intel Core i9,32,1000,SSD,RTX 3070,16.1,No,2399.01
 "MSI Summit E13 Flip Evo A13MT-229ES Intel Evo Core i7-1360P/16GB/512GB SSD/13.4"" Táctil",New,MSI,Summit,Intel Evo Core i7,16,512,SSD,,13.4,Yes,1709.0
 "HP OMEN 17-ck1002ns Intel Core i7-12700H/32GB/1TB SSD/RTX 3060/17.3""",New,HP,Omen,Intel Core i7,32,1000,SSD,RTX 3060,17.3,No,1799.0
@@ -643,7 +643,7 @@ ASUS Vivobook Pro 15 M6500QE AMD Ryzen 7-5800H/16GB/1TB SSD/RTX 3050Ti/15.6'' (P
 "Dynabook Toshiba Satellite Pro C50-J-12X Intel Core i3-1115G4/8GB/256GB SSD/15.6""",New,Dynabook Toshiba,Satellite Pro,Intel Core i3,8,256,SSD,,15.6,No,679.0
 "ASUS ROG Strix G17 G713PI-HX004 AMD Ryzen 9 7945HX/32GB/1TB SSD/RTX 4070/17.3""",Refurbished,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4070,17.3,No,2499.0
 "Gigabyte AORUS 15 9KF-E3ES383SD Intel Core i5-12500H/8GB/512GB SSD/RTX 4060/15.6""",New,Gigabyte,Aorus,Intel Core i5,8,512,SSD,RTX 4060,15.6,No,1086.85
-"Medion Erazer Beast X40 Intel Core i9-13900HX/32GB/2TB SSD/RTX 4090/17""",New,Razer,Beast,Intel Core i9,32,2000,SSD,RTX 4090,17.0,No,3799.0
+"Medion Erazer Beast X40 Intel Core i9-13900HX/32GB/2TB SSD/RTX 4090/17""",New,Medion,Beast,Intel Core i9,32,2000,SSD,RTX 4090,17.0,No,3799.0
 "MSI Prestige 16 A12UD-218ES Intel Core i7-1280P/32GB/1TB SSD/RTX 3050Ti/16""",New,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1929.01
 Lenovo Legion 5 15ACH6-990 AMD Ryzen 7 5800H/16GB/512GB SSD/RTX3070/15.6'' (PT),Refurbished,Lenovo,Legion,AMD Ryzen 7,16,512,SSD,RTX 3070,15.6,No,1180.29
 "Alurin Flex Advance Intel Core i5-1155G7/8GB/256GB SSD/14"" + Windows 11 Home",New,Alurin,Flex Advance,Intel Core i5,8,256,SSD,,14.0,No,540.0
@@ -691,8 +691,8 @@ ASUS TUF Dash F15 FX517ZE Intel Core i7-12650H/16GB/512GB SSD/RTX 3050Ti/15.6'' 
 "LG Ultra 16U70Q AMD Ryzen 5 5625U/8GB/512GB SSD/16""",New,LG,Ultra,AMD Ryzen 5,8,512,SSD,,16.0,No,969.0
 "Lenovo Yoga Slim 7 Pro 14IAP7 Intel Evo Core i5-1240P/8GB/512GB SSD/14""",New,Lenovo,Yoga,Intel Evo Core i5,8,512,SSD,,14.0,No,979.0
 "MSI Katana GF66 11UC-045XES Intel Core i7-11800H/16 GB/1TB SSD/RTX3050/15.6""",New,MSI,Katana,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1199.0
-"Medion Erazer Beast X40 Intel Core i9-13900HX/32GB/1TB SSD/RTX 4080/17""",New,Razer,Beast,Intel Core i9,32,1000,SSD,RTX 4080,17.0,No,3199.01
-"Medion Erazer Major X10 Intel Core i7-12700H/16GB/1TB SSD/Intel Arc A730M/16""",New,Razer,Erazer,Intel Core i7,16,1000,SSD,A 730M,16.0,No,1699.0
+"Medion Erazer Beast X40 Intel Core i9-13900HX/32GB/1TB SSD/RTX 4080/17""",New,Medion,Beast,Intel Core i9,32,1000,SSD,RTX 4080,17.0,No,3199.01
+"Medion Erazer Major X10 Intel Core i7-12700H/16GB/1TB SSD/Intel Arc A730M/16""",New,Medion,Erazer,Intel Core i7,16,1000,SSD,A 730M,16.0,No,1699.0
 "Razer Blade 17 FullHD 360Hz Intel Core i7-12800H/16GB/1TB SSD/RTX 3070Ti/17.3""",New,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,3500.0
 "ASUS ROG Zephyrus G14 2023 GA402XY-NC019W AMD Ryzen 9 7940HS/32GB/1TB SSD/RTX 4090/14""",New,Asus,ROG,AMD Ryzen 9,32,1000,SSD,RTX 4090,14.0,No,4599.0
 "Apple Macbook Air 2023 Apple M2/8GB/512GB SSD/GPU Deca Core/15.3"" Blanco Estrella",New,Apple,MacBook Air,Apple M2,8,512,SSD,,15.3,No,1829.0
@@ -731,7 +731,7 @@ ASUS TUF Dash F15 FX517ZE Intel Core i7-12650H/16GB/512GB SSD/RTX 3050Ti/15.6'' 
 "Acer Extensa 15 EX215-22 AMD Ryzen 5 3500U/8GB/512GB SSD/15.6""",New,Acer,Extensa,AMD Ryzen 5,8,512,SSD,,15.6,No,379.01
 "Microsoft Surface Laptop Studio Intel Core i7-11370H/16GB/512GB SSD/RTX 3050Ti/14.4"" Táctil Platino",New,Microsoft,Surface Laptop,Intel Core i7,16,512,SSD,RTX 3050,14.4,Yes,2199.01
 "Alurin Flex Advance Intel Core i5-1155G7/8GB/256GB/15.6"" + Windows 11 Home",New,Alurin,Flex Advance,Intel Core i5,8,256,,,15.6,No,549.0
-"Medion Erazer Beast X30 Intel Core i7-12700H/32GB/1TB SSD/RTX 3070 Ti/17.3""",New,Razer,Beast,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,2599.0
+"Medion Erazer Beast X30 Intel Core i7-12700H/32GB/1TB SSD/RTX 3070 Ti/17.3""",New,Medion,Beast,Intel Core i7,32,1000,SSD,RTX 3070,17.3,No,2599.0
 "Acer Aspire Vero Green Intel Core i7-1195G7/8GB/512GB SSD/15.6""+ Ratón Inalámbrico 1200 DPI Gris + Funda Protectora",New,Acer,Aspire,Intel Core i7,8,512,SSD,,15.6,No,1249.01
 "MSI Modern 14 C12M-078XES Intel Core i5-1235U/8GB/512GB SSD/14""",New,MSI,Modern,Intel Core i5,8,512,SSD,,14.0,No,799.0
 "Thomson Neo Intel Core i5-8259U/8GB/512GB SSD/15.6""",New,Thomson,Neo,Intel Core i5,8,512,SSD,,15.6,No,399.0
@@ -1197,7 +1197,7 @@ Acer Aspire 5 A515-57 Intel Core i5-1235U/8GB/512GB SSD/15.6'' (PT),Refurbished,
 "MSI Prestige 15 A12UC-200XES Intel Core i7-1280P/16GB/512GB SSD/RTX 3050/15.6""",Refurbished,MSI,Prestige,Intel Core i7,16,512,SSD,RTX 3050,15.6,No,1399.0
 "MSI Prestige 16 A12UD-219XES Intel Core i7-1280P/32GB/1TB SSD/RTX 3050Ti/16""",Refurbished,MSI,Prestige,Intel Core i7,32,1000,SSD,RTX 3050,16.0,No,1375.14
 "MSI Raider GE67HX 12UHS-030ES Intel Core i7-12800HX/32GB/1TB SSD/RTX 3080Ti/15.6""",Refurbished,MSI,Raider,Intel Core i7,32,1000,SSD,RTX 3080,15.6,No,3799.0
-"Medion Erazer Deputy P10 MD62132 Intel Core i5-10300H/8GB/512GB SSD/GTX 1660Ti/15.6"" + Crucial SO-DIMM DDR4 8GB 3200MHz",New,Razer,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,1029.0
+"Medion Erazer Deputy P10 MD62132 Intel Core i5-10300H/8GB/512GB SSD/GTX 1660Ti/15.6"" + Crucial SO-DIMM DDR4 8GB 3200MHz",New,Medion,Deputy,Intel Core i5,8,512,SSD,GTX 1660,15.6,No,1029.0
 "Razer Blade 15 Advanced Model FullHD 360Hz Intel Core i7-12800H/16GB/1TB SSD/RTX 3070Ti/15.6""",Refurbished,Razer,Blade,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,3299.99
 "Samsung Galaxy Book3 Pro 360 Intel Evo Core i7-1360P/16GB/512GB SSD/16"" Táctil+ T7 SSD PCIe NVMe USB 3.2 500GB",New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,,16.0,Yes,2198.99
 "ASUS  ROG Zephyrus M16 GU604VI-93D47PB1 Intel Core i9-13900H/32GB/1TB SSD/RTX 4070/16"" (PT)",New,Asus,ROG,Intel Core i9,32,1000,SSD,RTX 4070,16.0,No,3456.44
