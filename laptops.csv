@@ -788,7 +788,7 @@ MSI Pulse 17 B13VGK-435PT Intel Core i7-13700H/16GB/1TB SSD/RTX 4070/17.3'' (PT)
 "Microsoft Surface Laptop Studio Intel Core i7-11370H/32GB/2TB SSD/RTX 3050Ti/14.4"" Táctil Platino",New,Microsoft,Surface Laptop,Intel Core i7,32,2000,SSD,RTX 3050,14.4,Yes,3199.0
 "PcCom Revolt 3050 Intel Core i7-13700H/16GB/500GB/RTX 3050/15.6""",New,PcCom,Revolt,Intel Core i7,16,500,,RTX 3050,15.6,No,1349.9
 "Acer Predator Triton 500 SE PT516-51s-75K6 Intel Core i7-11800H/32GB/1TB SSD/RTX 3080/16""",New,Acer,Predator,Intel Core i7,32,1000,SSD,RTX 3080,16.0,No,2739.0
-"HP Zbook Firefly 16 G9 Intel Core i7-1260P/16 GB/512GB SSD/16""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,,16.0,No,1627.0
+"HP Zbook Firefly 16 G9 Intel Core i7-1260P/16 GB/512GB SSD/16""",New,HP,Zbook,Intel Core i7,16,512,SSD,,16.0,No,1627.0
 "Lenovo ThinkPad E14 Gen 4 Intel Core i7-1255U/16GB/512GB SSD/14""",New,Lenovo,ThinkPad,Intel Core i7,16,512,SSD,,14.0,No,1515.0
 PcCom Revolt 3050 Intel Core i7-13700H/16GB/1TB SSD/RTX 3050/15.6 + Windows 11 Home,New,PcCom,Revolt,Intel Core i7,16,1000,SSD,RTX 3050,15.6,No,1599.9
 "ASUS F515EA-BQ1154X Intel Core i5-1135G7/8GB/512GB SSD/15.6""",New,Asus,F515,Intel Core i5,8,512,SSD,,15.6,No,809.01
@@ -811,7 +811,7 @@ PcCom Revolt 4060 Intel Core i7-13700H/16GB/1TB SSD/RTX 4060/15.6 + Windows 11
 "Dell Latitude E7450 Intel Core i5-5300U/8GB/256GB SSD/14""",Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,,14.0,No,448.99
 "Lenovo ThinkBook 15 G4 IAP Intel Core i7-1255U/16GB/512GB SSD/15.6""",New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,,15.6,No,1196.97
 "HP 15S-FQ4100NS Intel Core i5-1155G7/8GB/512GB SSD/15.6""",New,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,595.9
-"HP 15S-FQ5028NS Intel Core i5-1235U/16GB/512GB SSD/15.6""+ Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,Intel Core i5,16,512,SSD,,15.6,No,850.99
+"HP 15S-FQ5028NS Intel Core i5-1235U/16GB/512GB SSD/15.6""+ Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,Intel Core i5,16,512,SSD,,15.6,No,850.99
 "Lenovo ThinkPad L450 Intel Core i5-4300U/8GB/256GB SSD/14""",Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,,14.0,No,239.0
 "Apple MacBook Pro Intel Core i7/16GB/512GB SSD/Radeon Pro 560X/15.4"" Plata",Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,Radeon Pro RX 560X,15.4,No,977.08
 "ASUS F1500EA-EJ3528 Intel Core i3-1115G4/8GB/512GB SSD/15.6""",New,Asus,VivoBook,Intel Core i3,8,512,SSD,,15.6,No,398.22
@@ -921,7 +921,7 @@ HP OMEN 16-c0030np AMD Ryzen 7-5800H/16GB/512GB SSD/RTX 3070/16.1'' (PT),New,HP,
 "Samsung Galaxy Book2 Intel Core i5-1235U/8 GB/256GB SSD/15.6""",New,Samsung,Galaxy Book,Intel Core i5,8,256,SSD,,15.6,No,849.01
 "Samsung Galaxy Book2 Pro Intel Evo Core i5-1240P/16GB/512GB SSD/13.3""",New,Samsung,Galaxy Book,Intel Evo Core i5,16,512,SSD,,13.3,No,1349.0
 "Samsung Galaxy Book3 Pro Intel Evo Core i7-1360P/16GB/512GB SSD/16"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,Samsung,Galaxy Book,Intel Evo Core i7,16,512,SSD,,16.0,No,2050.99
-"HP ZBook Firefly 16 G9 Intel Core i7-1265U/32GB/1TB SSD/QUADRO T500/16""",New,HP,ZBook Firefly,Intel Core i7,32,1000,SSD,T 500,16.0,No,2149.4
+"HP ZBook Firefly 16 G9 Intel Core i7-1265U/32GB/1TB SSD/QUADRO T500/16""",New,HP,Zbook,Intel Core i7,32,1000,SSD,T 500,16.0,No,2149.4
 "Lenovo Yoga Slim 7 ProX 14IAH7 Intel Evo Core i7-12700H/16GB/512GB SSD/14.5""",New,Lenovo,Yoga,Intel Evo Core i7,16,512,SSD,,14.5,No,1561.0
 "Acer ConceptD 7 Ezel CC715-72G-72AS Intel Core i7-11800H/32GB/1TB SSD/RTX 3080/15.6"" Táctil",New,Acer,ConceptD,Intel Core i7,32,1000,SSD,RTX 3080,15.6,Yes,3691.0
 "HP ProBook 650 G4 Intel Core i5-8250U/8GB/256GB SSD/15.6""",Refurbished,HP,ProBook,Intel Core i5,8,256,SSD,,15.6,No,679.95
@@ -1181,8 +1181,8 @@ Acer Aspire 5 A515-57 Intel Core i5-1235U/8GB/512GB SSD/15.6'' (PT),Refurbished,
 "Dynabook Toshiba Satellite Pro C50-G-10T Intel Core i7-10510U/16GB/512GB SSD/15.6""",Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i7,16,512,SSD,,15.6,No,799.0
 "Gigabyte AORUS 17 XE4-73ES514SH Intel Core i7-12700H/16GB/1TB SSD/RTX 3070Ti/17.3""",Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2399.0
 "Gigabyte U4 UD-50ES823SD Intel Core i5-1155G7/16GB/512GB SSD/14""",Refurbished,Gigabyte,U4,Intel Core i5,16,512,SSD,,14.0,No,799.0
-"HP 15S-EQ2090NS AMD Ryzen 5 5500U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,AMD Ryzen 5,8,512,SSD,,15.6,No,660.99
-"HP 15S-FQ5013NS Intel Core i5-1235U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,Intel Core i5,8,512,SSD,,15.6,No,760.99
+"HP 15S-EQ2090NS AMD Ryzen 5 5500U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,AMD Ryzen 5,8,512,SSD,,15.6,No,660.99
+"HP 15S-FQ5013NS Intel Core i5-1235U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,760.99
 "HP EliteBook 640 G9 Intel Core i7-1255U/16GB/512GB SSD/14""",Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,,14.0,No,1255.73
 "HP EliteBook 650 G9 Intel Core i7-1255U/16GB/512GB SSD/15.6""",Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,,15.6,No,1654.05
 "HP EliteBook 840 G7 Intel Core i5-10210U/8GB/256GB SSD/14"" Táctil",Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,,14.0,Yes,1395.03
@@ -1463,14 +1463,14 @@ HP Laptop 15S-EQ2052NP AMD Ryzen 7-5700U/12GB/256GB SSD/15.6'' (PT),New,HP,15S,A
 "HP Victus 16-E0094NS AMD Ryzen 5 5600H/16GB/512GB SSD/RTX 3050Ti/16.1""",New,HP,Victus,AMD Ryzen 5,16,512,SSD,RTX 3050,16.1,No,865.4
 "HP Victus 16-E0098NS AMD Ryzen 7 5800H/16GB/512GB SSD/RTX 3050/16.1""",New,HP,Victus,AMD Ryzen 7,16,512,SSD,RTX 3050,16.1,No,998.56
 "HP Victus 16-E0100NS AMD Ryzen 5 5600H/8GB/512GB SSD/GTX 1650/16.1""",New,HP,Victus,AMD Ryzen 5,8,512,SSD,GTX 1650,16.1,No,792.65
-"HP ZBook Firefly 14 G8 Intel Core i5-1135G7/16GB/512 GB SSD/14""",New,HP,ZBook Firefly,Intel Core i5,16,512,SSD,,14.0,No,2426.81
-"HP ZBook Firefly 14 G8 Intel Core i5-1135G7/16GB/512GB SSD/14""",New,HP,ZBook Firefly,Intel Core i5,16,512,SSD,,14.0,No,1385.0
-"HP ZBook Firefly 14 G9 Intel Core i7-1260P/16 GB/512GB SSD/14""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,,14.0,No,1778.0
-"HP ZBook Firefly 14 G9 Intel Core i7-1260P/16GB/512GB SSD/14""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,,14.0,No,1997.09
-"HP ZBook Firefly 14 G9 Intel Core i7-1265U/16GB/512GB SSD/Quadro T500/14""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,T 500,14.0,No,1800.03
-"HP ZBook Firefly 16 G9 Intel Core i7-1265U/16GB/512GB SSD/Quadro T500/16""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,T 500,16.0,No,1800.03
-"HP ZBook Firefly G8 Intel Core i5-1135G7/16GB/512GB SSD/14"" Táctil",New,HP,ZBook Firefly,Intel Core i5,16,512,SSD,,14.0,Yes,2426.53
-"HP ZBook Firefly G8 Intel Core i7-1165G7/16GB/512GB SSD/14""",New,HP,ZBook Firefly,Intel Core i7,16,512,SSD,,14.0,No,2484.11
+"HP ZBook Firefly 14 G8 Intel Core i5-1135G7/16GB/512 GB SSD/14""",New,HP,Zbook,Intel Core i5,16,512,SSD,,14.0,No,2426.81
+"HP ZBook Firefly 14 G8 Intel Core i5-1135G7/16GB/512GB SSD/14""",New,HP,Zbook,Intel Core i5,16,512,SSD,,14.0,No,1385.0
+"HP ZBook Firefly 14 G9 Intel Core i7-1260P/16 GB/512GB SSD/14""",New,HP,Zbook,Intel Core i7,16,512,SSD,,14.0,No,1778.0
+"HP ZBook Firefly 14 G9 Intel Core i7-1260P/16GB/512GB SSD/14""",New,HP,Zbook,Intel Core i7,16,512,SSD,,14.0,No,1997.09
+"HP ZBook Firefly 14 G9 Intel Core i7-1265U/16GB/512GB SSD/Quadro T500/14""",New,HP,Zbook,Intel Core i7,16,512,SSD,T 500,14.0,No,1800.03
+"HP ZBook Firefly 16 G9 Intel Core i7-1265U/16GB/512GB SSD/Quadro T500/16""",New,HP,Zbook,Intel Core i7,16,512,SSD,T 500,16.0,No,1800.03
+"HP ZBook Firefly G8 Intel Core i5-1135G7/16GB/512GB SSD/14"" Táctil",New,HP,Zbook,Intel Core i5,16,512,SSD,,14.0,Yes,2426.53
+"HP ZBook Firefly G8 Intel Core i7-1165G7/16GB/512GB SSD/14""",New,HP,Zbook,Intel Core i7,16,512,SSD,,14.0,No,2484.11
 "HP ZBook Fury 16 G9 Intel Core i7-12800HX/16GB/512GB SSD/RTX A2000/16""",Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,RTX A2000,16.0,No,3697.02
 "HP ZBook Fury 16 G9 Intel Core i7-12800HX/32GB/1TB SSD/RTX A3000/16""",New,HP,Zbook,Intel Core i7,32,1000,SSD,RTX A3000,16.0,No,4842.43
 "HP ZBook Power G9 Intel Core i7-12800H/16GB/512GB SSD/NVIDIA T600/15.6""",New,HP,Zbook,Intel Core i7,16,512,SSD,T 600,15.6,No,2008.81
@@ -1880,7 +1880,7 @@ Asus TUF Gaming A15 FA506QM-HN005 AMD Ryzen 7 5800H/16 GB/1TB SSD/RTX3060/15.6''
 "HP 15S-FQ4052NS Intel Core i5-1155G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,555.49
 "HP 15S-fq2005ns Intel Core i5-1135G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,421.27
 "HP 15S-fq2095ns Intel Core i3-1115G4/8GB/256GB SSD/15.6""",Refurbished,HP,15S,Intel Core i3,8,256,SSD,,15.6,No,334.54
-"HP 15S-fq2159ns Intel Core i3-1115G4/8GB/256GB SSD/15.6"" + Microsoft 365 Personal 12 Meses",New,Microsoft,15S,Intel Core i3,8,256,SSD,,15.6,No,608.94
+"HP 15S-fq2159ns Intel Core i3-1115G4/8GB/256GB SSD/15.6"" + Microsoft 365 Personal 12 Meses",New,HP,15S,Intel Core i3,8,256,SSD,,15.6,No,608.94
 "HP 15S-fq4027ns Intel Core i5-1155G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,475.99
 "HP 250 G8 Intel Core i3-1115G4/8GB/512GB SSD/15.6""",Refurbished,HP,250,Intel Core i3,8,512,SSD,,15.6,No,392.69
 "HP 255 G8 AMD Ryzen 5 3500U/8GB/256 GB SSD/15.6""",Refurbished,HP,255,AMD Ryzen 5,8,256,SSD,,15.6,No,410.69
@@ -1921,8 +1921,8 @@ Asus TUF Gaming A15 FA506QM-HN005 AMD Ryzen 7 5800H/16 GB/1TB SSD/RTX3060/15.6''
 "HP ProBook 450 G8 Intel Core i7-1165G7/16GB/512GB SSD/15.6""",Refurbished,HP,ProBook,Intel Core i7,16,512,SSD,,15.6,No,1603.1
 "HP Victus 16-d0031ns Intel Core i5-11400H/16GB/512GB SSD/GTX 1650/16.1""",Refurbished,HP,Victus,Intel Core i5,16,512,SSD,GTX 1650,16.1,No,624.78
 "HP Victus 16-e0030ns AMD Ryzen 5 5600H/16GB/512GB SSD/RTX 3050/16.1""",Refurbished,HP,Victus,AMD Ryzen 5,16,512,SSD,RTX 3050,16.1,No,735.84
-"HP ZBook Firefly 14 G8 Intel Core i7-1165G7/16GB/512GB SSD/14""",Refurbished,HP,ZBook Firefly,Intel Core i7,16,512,SSD,,14.0,No,1619.46
-"HP ZBook Firefly 15 G8 Intel Core i7-1165G7/16 GB/512GB SSD/Quadro T500/15.6""",Refurbished,HP,ZBook Firefly,Intel Core i7,16,512,SSD,T 500,15.6,No,2677.83
+"HP ZBook Firefly 14 G8 Intel Core i7-1165G7/16GB/512GB SSD/14""",Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,,14.0,No,1619.46
+"HP ZBook Firefly 15 G8 Intel Core i7-1165G7/16 GB/512GB SSD/Quadro T500/15.6""",Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,T 500,15.6,No,2677.83
 "HP ZBook Fury G8 Intel Core i7-11800H/16 GB/512GB SSD/RTX A3000/15.6""",Refurbished,HP,Zbook,Intel Core i7,16,512,SSD,RTX A3000,15.6,No,3848.01
 "HP ZBook Fury G8 Intel Core i9-11900H/32GB/1TB SSD/RTX A4000/15.6""",Refurbished,HP,Zbook,Intel Core i9,32,1000,SSD,,15.6,No,4805.65
 "LG 15U70N Intel Core i7-10510U/16GB/512GB SSD/GTX1050/15.6""",Refurbished,LG,15U70N,Intel Core i7,16,512,SSD,GTX 1050,15.6,No,704.24
