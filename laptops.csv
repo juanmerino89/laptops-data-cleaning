@@ -213,7 +213,7 @@ MSI Stealth 15 A13VF-019XES Intel Core i7-13620H/16GB/1TB SSD/RTX 4060/15.6'',Ne
 "ASUS Chromebook Vibe CX34 Flip CX3401FBA-N90030 Intel Core i5-1235U/8GB/256GB SSD/14"" Táctil",New,Asus,Chromebook,Intel Core i5,8,256,SSD,,14.0,Yes,899.0
 "Lenovo ThinkBook 16 G4+ IAP Intel Core i5-1235U/16GB/512GB SSD/16""",New,Lenovo,ThinkBook,Intel Core i5,16,512,SSD,,16.0,No,1089.0
 "ASUS ZenBook 14X OLED UM5401QA-L7177 AMD Ryzen 7 5800H/16GB/512GB SSD/14""",New,Asus,ZenBook,AMD Ryzen 7,16,512,SSD,,14.0,No,1199.0
-"Gigabyte AERO 16 XE5-73ES938HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/16""",New,HP,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2899.0
+"Gigabyte AERO 16 XE5-73ES938HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/16""",New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2899.0
 "Apple Macbook Air 2023 Apple M2/8GB/256GB SSD/GPU Deca Core/15.3"" Medianoche",New,Apple,MacBook Air,Apple M2,8,256,SSD,,15.3,No,1599.0
 "Lenovo IdeaPad 3 AMD Ryzen 3 5300U/8GB/256GB SSD/15.6""",New,Lenovo,IdeaPad,AMD Ryzen 3,8,256,SSD,,15.6,No,499.0
 "Acer Nitro 5 AN515-58-7571 Intel Core i7-12700H/16GB/512GB SSD/RTX 3060/15.6""",New,Acer,Nitro,Intel Core i7,16,512,SSD,RTX 3060,15.6,No,1499.0
@@ -495,7 +495,7 @@ ASUS ROG Flow X16 2023 GV601VI-NL017W Intel Core i9-13900H/32GB/1TB SSD/RTX 4070
 "Apple MacBook Pro Intel Core i5/8GB/256GB/13"" Plateado",Refurbished,Apple,MacBook Pro,Intel Core i5,8,256,,,13.0,No,634.25
 "ASUS ZenBook Pro Duo 15 OLED UX582ZM-H2030W Intel Core i7-12700H/32GB/1TB SSD/RTX 3060/15.6"" Táctil",New,Asus,ZenBook,Intel Core i7,32,1000,SSD,RTX 3060,15.6,Yes,2799.0
 "ASUS ROG Zephyrus Duo 16 2023 GX650PY-NM003W AMD Ryzen 9 7945HX/64GB/2TB+2TB SSD/RTX 4090/16""",New,Asus,ROG,AMD Ryzen 9,64,2000,SSD,RTX 4090,16.0,No,5159.0
-"Gigabyte AERO 17 XE5-73ES738HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/17.3""",New,HP,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2999.0
+"Gigabyte AERO 17 XE5-73ES738HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/17.3""",New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2999.0
 "Microsoft Surface GO 3 Intel Pentium Gold 6500Y/8GB/128GB SSD/10.5"" Táctil",New,Microsoft,Surface Go,Intel Pentium,8,128,SSD,,10.5,Yes,599.01
 "HP Victus 15-fa1002ns Intel Core i7-13700H/16GB/512GB SSD/RTX 4050/15.6""",New,HP,Victus,Intel Core i7,16,512,SSD,RTX 4050,15.6,No,1299.01
 "MSI Prestige 16 A12UD-221XES Intel Core i7-1280P/16GB/1TB SSD/RTX 3050Ti/16""",New,MSI,Prestige,Intel Core i7,16,1000,SSD,RTX 3050,16.0,No,1889.0
@@ -811,7 +811,7 @@ PcCom Revolt 4060 Intel Core i7-13700H/16GB/1TB SSD/RTX 4060/15.6 + Windows 11
 "Dell Latitude E7450 Intel Core i5-5300U/8GB/256GB SSD/14""",Refurbished,Dell,Latitude,Intel Core i5,8,256,SSD,,14.0,No,448.99
 "Lenovo ThinkBook 15 G4 IAP Intel Core i7-1255U/16GB/512GB SSD/15.6""",New,Lenovo,ThinkBook,Intel Core i7,16,512,SSD,,15.6,No,1196.97
 "HP 15S-FQ4100NS Intel Core i5-1155G7/8GB/512GB SSD/15.6""",New,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,595.9
-"HP 15S-FQ5028NS Intel Core i5-1235U/16GB/512GB SSD/15.6""+ Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,Intel Core i5,16,512,SSD,,15.6,No,850.99
+"HP 15S-FQ5028NS Intel Core i5-1235U/16GB/512GB SSD/15.6""+ Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,Intel Core i5,16,512,SSD,,15.6,No,850.99
 "Lenovo ThinkPad L450 Intel Core i5-4300U/8GB/256GB SSD/14""",Refurbished,Lenovo,ThinkPad,Intel Core i5,8,256,SSD,,14.0,No,239.0
 "Apple MacBook Pro Intel Core i7/16GB/512GB SSD/Radeon Pro 560X/15.4"" Plata",Refurbished,Apple,MacBook Pro,Intel Core i7,16,512,SSD,Radeon Pro RX 560X,15.4,No,977.08
 "ASUS F1500EA-EJ3528 Intel Core i3-1115G4/8GB/512GB SSD/15.6""",New,Asus,VivoBook,Intel Core i3,8,512,SSD,,15.6,No,398.22
@@ -1181,8 +1181,8 @@ Acer Aspire 5 A515-57 Intel Core i5-1235U/8GB/512GB SSD/15.6'' (PT),Refurbished,
 "Dynabook Toshiba Satellite Pro C50-G-10T Intel Core i7-10510U/16GB/512GB SSD/15.6""",Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i7,16,512,SSD,,15.6,No,799.0
 "Gigabyte AORUS 17 XE4-73ES514SH Intel Core i7-12700H/16GB/1TB SSD/RTX 3070Ti/17.3""",Refurbished,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,17.3,No,2399.0
 "Gigabyte U4 UD-50ES823SD Intel Core i5-1155G7/16GB/512GB SSD/14""",Refurbished,Gigabyte,U4,Intel Core i5,16,512,SSD,,14.0,No,799.0
-"HP 15S-EQ2090NS AMD Ryzen 5 5500U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,AMD Ryzen 5,8,512,SSD,,15.6,No,660.99
-"HP 15S-FQ5013NS Intel Core i5-1235U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,760.99
+"HP 15S-EQ2090NS AMD Ryzen 5 5500U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,AMD Ryzen 5,8,512,SSD,,15.6,No,660.99
+"HP 15S-FQ5013NS Intel Core i5-1235U/8GB/512GB SSD/15.6"" + Microsoft 365 Personal 12 Meses Descarga Digital",New,Microsoft,15S,Intel Core i5,8,512,SSD,,15.6,No,760.99
 "HP EliteBook 640 G9 Intel Core i7-1255U/16GB/512GB SSD/14""",Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,,14.0,No,1255.73
 "HP EliteBook 650 G9 Intel Core i7-1255U/16GB/512GB SSD/15.6""",Refurbished,HP,EliteBook,Intel Core i7,16,512,SSD,,15.6,No,1654.05
 "HP EliteBook 840 G7 Intel Core i5-10210U/8GB/256GB SSD/14"" Táctil",Refurbished,HP,EliteBook,Intel Core i5,8,256,SSD,,14.0,Yes,1395.03
@@ -1355,8 +1355,8 @@ Dell XPS 15 9520 Intel Core i7-12700H/16GB RAM/1TB SSD/RTX 3050 Ti/15.6'' (PT),N
 "Dynabook Toshiba Satellite Pro C50-H-10C Intel Core i3-1005G1/8GB/512GB SSD/15.6""",Refurbished,Dynabook Toshiba,Satellite Pro,Intel Core i3,8,512,SSD,,15.6,No,397.29
 "Dynabook Toshiba Tecra A50-J-13Y Intel Core i5-1135G7/8GB/512GB SSD/15.6""",New,Dynabook Toshiba,Tecra,Intel Core i5,8,512,SSD,,15.6,No,1093.01
 "Gigabyte AERO 15 OLED YD-73ES624SP Intel Core i7-11800H/16GB/1TB SSD/RTX 3080/15.6""",New,Gigabyte,Aero,Intel Core i7,16,1000,SSD,RTX 3080,15.6,No,2835.19
-"Gigabyte AERO 16 XE5-73PT938HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/16"" (PT)",New,HP,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2317.0
-"Gigabyte AERO 17 XE5-73PT738HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/17.3"" (PT)",New,HP,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2228.59
+"Gigabyte AERO 16 XE5-73PT938HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/16"" (PT)",New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,16.0,No,2317.0
+"Gigabyte AERO 17 XE5-73PT738HP Intel Core i7-12700H/16GB/2TB SSD/RTX 3070Ti/17.3"" (PT)",New,Gigabyte,Aero,Intel Core i7,16,2000,SSD,RTX 3070,17.3,No,2228.59
 "Gigabyte AORUS 15 XE4-73ESB14SH Intel Core i7-12700H/16GB/1TB SSD/RTX 3070Ti/15.6""",New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 3070,15.6,No,2299.0
 "Gigabyte AORUS 15X ASF-83ES654SH Intel Core i7-13700HX/16GB/1TB SSD/RTX 4070/15.6""",New,Gigabyte,Aorus,Intel Core i7,16,1000,SSD,RTX 4070,15.6,No,2511.0
 "Gigabyte AORUS 17G KD-72ES325SD Intel Core i7-11800H/16GB/512GB SSD/RTX 3060/17.3""",New,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 3060,17.3,No,1552.82
@@ -1860,7 +1860,7 @@ Asus TUF Gaming A15 FA506QM-HN005 AMD Ryzen 7 5800H/16 GB/1TB SSD/RTX3060/15.6''
 "Gigabyte AERO 15 OLED XD-73ES644SP Intel Core i7-11800H/32GB/1TB SSD/RTX 3070/15.6""",Refurbished,Gigabyte,Aero,Intel Core i7,32,1000,SSD,RTX 3070,15.6,No,1557.69
 "Gigabyte AERO 15 XA-7ES2130SH Intel Core i7-9750H/16GB/512GB SSD/RTX 2070Q/15.6""",Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1605.19
 "Gigabyte AERO 15 XB-7ES1130SH Intel Core i7-10750H/16GB/512GB SSD/RTX 2070 SUPER/15.6""",Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,1263.99
-"Gigabyte AERO 16 YE5-94ES948HP Intel Core i9-12900HK/32GB/2TB SSD/RTX 3080Ti/16""",Refurbished,HP,Aero,Intel Core i9,32,2000,SSD,RTX 3080,16.0,No,3799.0
+"Gigabyte AERO 16 YE5-94ES948HP Intel Core i9-12900HK/32GB/2TB SSD/RTX 3080Ti/16""",Refurbished,Gigabyte,Aero,Intel Core i9,32,2000,SSD,RTX 3080,16.0,No,3799.0
 "Gigabyte AERO 17 HDR WB-8ES4130SH Intel Core i7-10875H/16GB/512GB SSD/RTX 2070/17.3""",Refurbished,Gigabyte,Aero,Intel Core i7,16,512,SSD,RTX 2070,17.3,No,2257.84
 "Gigabyte AORUS 15G KB-7ES1130MD Intel Core i7-10750H/16GB/512GB SSD/RTX 2060/15.6""",Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2060,15.6,No,808.49
 "Gigabyte AORUS 15G WB-8ES2130MD Intel Core i7-10875H/16GB/512GB SSD/RTX 2070/15.6""",Refurbished,Gigabyte,Aorus,Intel Core i7,16,512,SSD,RTX 2070,15.6,No,966.14
@@ -1880,7 +1880,7 @@ Asus TUF Gaming A15 FA506QM-HN005 AMD Ryzen 7 5800H/16 GB/1TB SSD/RTX3060/15.6''
 "HP 15S-FQ4052NS Intel Core i5-1155G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,555.49
 "HP 15S-fq2005ns Intel Core i5-1135G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,421.27
 "HP 15S-fq2095ns Intel Core i3-1115G4/8GB/256GB SSD/15.6""",Refurbished,HP,15S,Intel Core i3,8,256,SSD,,15.6,No,334.54
-"HP 15S-fq2159ns Intel Core i3-1115G4/8GB/256GB SSD/15.6"" + Microsoft 365 Personal 12 Meses",New,HP,15S,Intel Core i3,8,256,SSD,,15.6,No,608.94
+"HP 15S-fq2159ns Intel Core i3-1115G4/8GB/256GB SSD/15.6"" + Microsoft 365 Personal 12 Meses",New,Microsoft,15S,Intel Core i3,8,256,SSD,,15.6,No,608.94
 "HP 15S-fq4027ns Intel Core i5-1155G7/8GB/512GB SSD/15.6""",Refurbished,HP,15S,Intel Core i5,8,512,SSD,,15.6,No,475.99
 "HP 250 G8 Intel Core i3-1115G4/8GB/512GB SSD/15.6""",Refurbished,HP,250,Intel Core i3,8,512,SSD,,15.6,No,392.69
 "HP 255 G8 AMD Ryzen 5 3500U/8GB/256 GB SSD/15.6""",Refurbished,HP,255,AMD Ryzen 5,8,256,SSD,,15.6,No,410.69
